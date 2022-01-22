@@ -11,6 +11,6 @@
 
 # fichier
 .env
-node_modules/*
+node_modules
 DB_CONNECT
 DB
