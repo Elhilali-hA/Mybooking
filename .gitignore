@@ -10,7 +10,7 @@
 *.app
 
 # fichier
-.env
+*.env
 node_modules/
 DB_CONNECT
 DB
