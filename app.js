@@ -19,4 +19,7 @@ app.use(express.json())
 const authroute = require('./routes/auth')
 app.use('/', authroute)
 
+const posts = require('./routes/posts')
+app.use('/', posts)
+
 
